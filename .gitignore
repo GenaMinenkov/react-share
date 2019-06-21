@@ -1,5 +1,12 @@
 .DS_Store
 node_modules/
-lib/
-es/
 *.log
+src
+demo
+docs
+.babelrc
+.eslintrc
+.gitignore
+.git
+*.png
+*.config.js
